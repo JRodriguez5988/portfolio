@@ -198,6 +198,7 @@ section {
     grid-template-columns: repeat(2, 1fr);
     padding-top: 3.5rem;
     padding-bottom: 5rem;
+    justify-content: center;
     .right-about {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -296,7 +297,7 @@ section {
                     }
 
                     .css {
-                        width: 60%;
+                        width: 75%;
                     }
 
                     .js {
@@ -304,7 +305,7 @@ section {
                     }
 
                     .react {
-                        width: 60%;
+                        width: 70%;
                     }
 
                     .node {
